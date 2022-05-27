@@ -8,7 +8,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 //create your first component
 const Home = () => {
 	return (
-		<div className="home">
+		<div className="home align-items-center">
 			<SimpleCounter />
 		</div>
 	);

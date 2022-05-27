@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 function SimpleCounter(props) {
 	return (
-		<div className="bigCounter ">
+		<div className="bigCounter position-absolute top-50 start-50 translate-middle">
 			<div ClassName="timer container-fluid justify-content-center">
 				<div className="calendar">
 					<i class="fas fa-stopwatch"></i>
